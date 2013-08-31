@@ -415,3 +415,8 @@ pre {
   padding: 20px;
   width: 50%;
 }
+
+/* line 146, ../sass/screen.scss */
+#logo {
+  text-align: center;
+}
